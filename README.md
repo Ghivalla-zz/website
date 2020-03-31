@@ -1,12 +1,13 @@
 # portfolio
 
 > my personal website, theres no projects shown yet, but it's for soon !
+> stack : Nuxt.js, Contentful, circleci (in progress), Node, Express, Nginx
 
 ## Build Setup
 
 ``` bash
-#g o inside one of the folders
-$ cd folderName (app or server)
+# go inside one of the folders (app or server)
+$ cd folderName
 
 # install dependencies
 $ yarn install
