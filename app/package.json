@@ -16,7 +16,7 @@
     "charming": "^3.0.2",
     "contentful": "^7.13.1",
     "dotenv": "^8.2.0",
-    "gsap": "^3.2.6",
+    "gsap": "^3.6.0",
     "marked": "^0.8.0",
     "node-sass": "^4.13.1",
     "nuxt": "^2.0.0",
